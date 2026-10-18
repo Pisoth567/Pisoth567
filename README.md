@@ -39,7 +39,7 @@
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,laravel,mysql,postgres,mongodb" alt="Backend skills"/>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgres" alt="Backend skills"/>
 </p>
 
 ### Tools & Platforms
